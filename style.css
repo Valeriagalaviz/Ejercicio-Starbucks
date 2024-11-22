@@ -1,12 +1,25 @@
-#caja-1{
+.caja-1{
     width: 1400px;
     height: 400px;
-    background-color: #1e3932;
     display: flex;
+    font-family: "Noto Sans", sans-serif;;
+    color:white;
+    text-align: center;
     
+    margin: 0 auto;
+}
+
+#caja-1{
+    background-color: #1e3932;
 }
 
 #caja-1 img{
     width: 700px;
     height: 400px;
 }
+
+#caja-1 div{
+    padding: 10px;
+    margin: 100px auto;
+}
+
