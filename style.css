@@ -1,0 +1,12 @@
+#caja-1{
+    width: 1400px;
+    height: 400px;
+    background-color: #1e3932;
+    display: flex;
+    
+}
+
+#caja-1 img{
+    width: 700px;
+    height: 400px;
+}
