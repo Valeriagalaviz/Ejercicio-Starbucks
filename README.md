@@ -1,8 +1,8 @@
-# Ejercicio Frontend de Starbucks 
+# Ejercicio Frontend de Starbucks :coffee:
 
 ## Descripción 
 
-Este proyecto es un clon del frontend de la página de Starbucks.mx, desarrollado con el objetivo de poner en práctica habilidades en HTML y CSS. El proyecto busca replicar la apariencia y funcionalidad básica de la página original de Starbucks.mx, incluyendo la disposición de la interfaz y los estilos visuale.
+Este proyecto es un clon del frontend de la página principal de Starbucks.mx, desarrollado con el objetivo de poner en práctica habilidades en HTML y CSS. El proyecto busca replicar la apariencia y funcionalidad básica de la página principal de Starbucks.mx, incluyendo la disposición de la interfaz y los estilos visuales.
 
 ## Características 
 
